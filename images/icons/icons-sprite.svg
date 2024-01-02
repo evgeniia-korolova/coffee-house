@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" overflow="hidden" style="position:absolute;width:0;height:0">
+  <defs>
+    <path id="reuse-0" stroke="var(--color4, #c1b6ad)" stroke-width=".533" d="M16 .267C24.689.267 31.733 7.311 31.733 16S24.689 31.733 16 31.733.267 24.689.267 16 7.311.267 16 .267z"/>
+  </defs>
+  <defs>
+    <symbol id="button-app-store" viewBox="0 0 32 32">
+      <path d="M23.74 16.561c-.033-3.554 2.985-5.283 3.123-5.364-1.709-2.429-4.358-2.761-5.289-2.788-2.225-.228-4.383 1.298-5.516 1.298-1.156 0-2.901-1.276-4.782-1.238-2.42.036-4.685 1.403-5.926 3.524-2.563 4.326-.651 10.683 1.804 14.18 1.228 1.713 2.663 3.625 4.542 3.557 1.838-.074 2.524-1.142 4.742-1.142 2.197 0 2.842 1.142 4.758 1.099 1.972-.031 3.214-1.72 4.4-3.448 1.419-1.963 1.989-3.896 2.012-3.995-.046-.015-3.831-1.424-3.868-5.683zM20.121 6.109c.988-1.205 1.665-2.845 1.477-4.509-1.431.062-3.22.965-4.25 2.144-.912 1.039-1.726 2.741-1.516 4.342 1.607.117 3.257-.791 4.289-1.977z"/>
+    </symbol>
+    <symbol id="button-icon-arrow" viewBox="0 0 32 32">
+      <path stroke="var(--color1, #665f55)" stroke-width=".533" d="M16 .267C24.689.267 31.733 7.311 31.733 16S24.689 31.733 16 31.733.267 24.689.267 16 7.311.267 16 .267z"/>
+      <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".533" d="M19.467 16H12.8m0 0 3.2-3.2M12.8 16l3.2 3.2"/>
+    </symbol>
+    <symbol id="icon-clock" viewBox="0 0 32 32">
+      <path fill="none" stroke="var(--color3, #e1d4c9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M16 8v8h8"/>
+      <path fill="none" stroke="var(--color3, #e1d4c9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M16 29.333c7.364 0 13.333-5.97 13.333-13.333S23.363 2.667 16 2.667C8.636 2.667 2.667 8.637 2.667 16S8.637 29.333 16 29.333z"/>
+    </symbol>
+    <symbol id="icon-facebook" viewBox="0 0 32 32">
+      <use xlink:href="#reuse-0" stroke-width=".533"/>
+      <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".533" d="M18.667 10.667h-1.6a2.668 2.668 0 0 0-2.667 2.667v1.6h-1.6v2.133h1.6v4.267h2.133v-4.267h1.6l.533-2.133h-2.133v-1.6a.534.534 0 0 1 .533-.533h1.6v-2.133z"/>
+    </symbol>
+    <symbol id="icon-google-play" viewBox="0 0 32 32">
+      <path d="M3.338 2.847c-.322.329-.509.841-.509 1.504V28c0 .663.186 1.175.509 1.504l.079.072 13.592-13.247v-.313L3.417 2.769l-.079.078zm19.842 17.9-4.526-4.418v-.313l4.531-4.418.102.057 5.366 2.977c1.531.845 1.531 2.235 0 3.085l-5.473 3.029zm-.715.765-4.633-4.517L4.161 30.326c.509.521 1.338.584 2.281.063l16.022-8.877zm0-10.679L6.443 1.956c-.943-.516-1.773-.453-2.281.068l13.671 13.325 4.633-4.517z"/>
+    </symbol>
+    <symbol id="icon-instagram" viewBox="0 0 32 32">
+      <use xlink:href="#reuse-0" stroke-width=".533"/>
+      <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".533" d="M16 18.133a2.133 2.133 0 1 0 0-4.266 2.133 2.133 0 0 0 0 4.266z"/>
+      <path fill="none" stroke-width=".533" d="M11.2 18.133v-4.267a2.667 2.667 0 0 1 2.667-2.667h4.267a2.667 2.667 0 0 1 2.667 2.667v4.267a2.667 2.667 0 0 1-2.667 2.667h-4.267a2.667 2.667 0 0 1-2.667-2.667z"/>
+      <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".533" d="m18.933 13.072.005-.006"/>
+    </symbol>
+    <symbol id="icon-location" viewBox="0 0 32 32">
+      <path fill="none" stroke="var(--color3, #e1d4c9)" stroke-width="2.4" d="M26.666 13.333c0 5.891-10.667 16-10.667 16s-10.667-10.109-10.667-16S10.108 2.666 15.999 2.666s10.667 4.776 10.667 10.667z"/>
+      <path fill="var(--color3, #e1d4c9)" stroke="var(--color3, #e1d4c9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M16 14.667A1.333 1.333 0 1 0 16 12a1.333 1.333 0 0 0 0 2.667z"/>
+    </symbol>
+    <symbol id="icon-menu-item" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M22.667 15.627v3.04a9.333 9.333 0 1 1-18.666 0v-3.04c0-.53.43-.96.96-.96h16.747c.53 0 .96.43.96.96zM16 12c0-1.333.952-2.667 2.857-2.667a3.81 3.81 0 0 0 3.81-3.81v-.857M10.666 12v-.667a4 4 0 0 1 4-4 2.667 2.667 0 0 0 2.667-2.667v-.667"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M21.333 14.667h3.333a3.333 3.333 0 1 1 0 6.666h-2"/>
+    </symbol>
+    <symbol id="icon-telephone" viewBox="0 0 32 32">
+      <path fill="none" stroke="var(--color3, #e1d4c9)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="m24.157 19.603-5.491 1.064c-3.709-1.862-6-4-7.333-7.333l1.027-5.507-1.941-5.16H5.967c-1.804 0-3.224 1.493-2.925 3.272C3.678 9.736 5.396 16.063 10 20.667c4.838 4.838 11.706 7.064 15.821 8.02 1.858.431 3.513-1.021 3.513-2.928v-4.183l-5.176-1.972z"/>
+    </symbol>
+    <symbol id="icon-twitter" viewBox="0 0 32 32">
+      <use xlink:href="#reuse-0" stroke-width=".533"/>
+      <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".533" d="M21.867 11.205s-1.076.636-1.675.816a2.392 2.392 0 0 0-3.78.226A2.386 2.386 0 0 0 16 13.621v.533a5.693 5.693 0 0 1-4.8-2.416s-2.133 4.8 2.667 6.933a6.21 6.21 0 0 1-3.733 1.067c4.8 2.667 10.667 0 10.667-6.133a2.35 2.35 0 0 0-.043-.443c.544-.537 1.109-1.957 1.109-1.957z"/>
+    </symbol>
+
+    <symbol id="icon_tab_coffee" viewBox="0 0 33 32">
+<path fill="#e1d4c9" style="fill: var(--color3, #e1d4c9)" d="M16.533 0c8.837 0 16 7.163 16 16s-7.163 16-16 16c-8.837 0-16-7.163-16-16s7.163-16 16-16z"></path>
+<path fill="#000" style="fill: var(--color2, #000)" d="M8 24.661h17.067v-17.067h-17.067v17.067z"></path>
+</symbol>
+
+
+
+<symbol id="icon-refresh" viewBox="0 0 32 32">
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.3333" d="M29.184 18c-0.965 6.415-6.5 11.333-13.184 11.333-7.364 0-13.333-5.97-13.333-13.333s5.97-13.333 13.333-13.333c5.467 0 10.166 3.291 12.224 8"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="1.3333" d="M22.667 10.667h5.867c0.442 0 0.8-0.358 0.8-0.8v-5.867"></path>
+</symbol>
+
+<symbol id="icon__tab__desert" viewBox="0 0 33 32">
+<path fill="#c1b6ad" style="fill: var(--color1, #c1b6ad)" d="M16.533 0c8.837 0 16 7.163 16 16s-7.163 16-16 16c-8.837 0-16-7.163-16-16s7.163-16 16-16z"></path>
+<path fill="#000" style="fill: var(--color2, #000)" d="M8 24.661h17.067v-17.067h-17.067v17.067z"></path>
+</symbol>
+
+<symbol id="icon_tab_tee" viewBox="0 0 33 32">
+<path fill="#c1b6ad" style="fill: var(--color1, #c1b6ad)" d="M16.533 0c8.837 0 16 7.163 16 16s-7.163 16-16 16c-8.837 0-16-7.163-16-16s7.163-16 16-16z"></path>
+<path fill="#000" style="fill: var(--color2, #000)" d="M8 24.661h17.067v-17.067h-17.067v17.067z"></path>
+</symbol>
+
+
+  </defs>
+</svg>
